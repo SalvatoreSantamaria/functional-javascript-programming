@@ -1,6 +1,7 @@
 // https://youtu.be/iZLP4qOwY8I?t=231
 // currying: when a function doesn't take all of its arguments up front
 // instead, it gradually passes in params to anonymous functions
+// it doesn't work if you don't pass in all the params
 
 
 // 1. --------------------------------------------------------------------------------
