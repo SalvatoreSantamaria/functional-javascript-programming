@@ -15,3 +15,4 @@ Transducers
 
 Pure functions produce the same out for the same inputs and have no side effects.
 A pure function is a computation that is only influenced by its input. The function only influences it's output.
+Memoization is remembering the result of a function for later
