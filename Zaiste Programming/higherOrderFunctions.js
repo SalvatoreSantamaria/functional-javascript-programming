@@ -2,6 +2,7 @@
 // or
 // returned from other functions as output. 
 
+// The goal is to abstract to hide details. 
 
 
 
@@ -29,8 +30,10 @@ const isLargerThan = value => {
         return number > value;
     }
 }
+// const isLargerThan = value => number => number > value // this is how to write above with ES6
 
 const isLargerThan10 = isLargerThan(10)
 const isLargerThan100 = isLargerThan(100)
+
 const result = isLargerThan10(14)
 console.log(result)
