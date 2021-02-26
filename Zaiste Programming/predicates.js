@@ -18,3 +18,5 @@ const isNumber = value => {
     return !isNaN(value) && isFinite(value)
 }
 console.log(isNumber(2)) //true
+
+
