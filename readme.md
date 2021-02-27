@@ -1,13 +1,16 @@
-## Instructions to run any of these files:  
+## Notes:
+This is a collection of youtube tutorial notes, see the folders for links to the series.
 
+## Instructions to run any of these files:  
 In a node environment, run node and the name of the file:  
 `node pureFunctions.js`  
 
 Note: make sure you cd into the correct folder if necessary.
 
 
+
+# Intro to Functional Programming: 3 parts
 Hitesh Choudhary: https://www.youtube.com/watch?v=dAPL7MQGjyM
-# Functional Programming: 3 parts
 
 ## Functional Programming Style. 
 Keep functions and data completely separate
