@@ -1,4 +1,4 @@
-// Filter something out based on a condition. 
+// Filter something out of an array based on a condition
 
 let users = [
     { id: 1, orderQty: 10 },
